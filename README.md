@@ -1,6 +1,6 @@
-# EPS-Electric-power-Steering-with-Fuzzy-implimentation
+# EPS-System-with-Fuzzy
 
-# This is project is designed to control the torque for electric power steering (EPS) systems in vehicles. EPS systems assist the driver in steering by reducing the effort needed to turn the steering wheel.
+This is project is designed to control the torque for electric power steering (EPS) systems in vehicles. EPS systems assist the driver in steering by reducing the effort needed to turn the steering wheel.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This project demonstrates how to use genetic algorithms to solve a quadratic equation. The genetic algorithm evolves a population of binary-encoded individuals over several generations to find the best solution.
+This project demonstrates how to use the ESP (Electric Power Sterring) to reduce the effort needed to turn the sterring wheel according to the road condition . 
 
 ## Features
 
@@ -32,7 +32,7 @@ To run this project from google collab, follow these steps:
 ### 1. Clone the repository:
    open any folder in vscode
    ```bash
-   git clone https://github.com/emergingravi/Genetic_algorithm_AI.git
+   git clone https://github.com/emergingravi/EPS-Electric-power-Steering-with-Fuzzy-implimentation
    ```
 
 ### 2. installation
