@@ -56,7 +56,7 @@ To run this project from google collab, follow these steps:
     save
     click on connect
 
-### 6. Run the genetic algorithm:
+### 6. Run the algorithm:
 
    Follow the instructions within the colaboraotry to run the ESP_algorithm and view results.
 
@@ -131,7 +131,7 @@ torque_simulation.input['steering_angle'] = input_steering_angle
 ```
 
 ### Results
-  After running the genetic algorithm, the best solution found will be printed along with its fitness value:
+  After running the algorithm the output for the torque assistance will be displayed 
   ```bash
 torque_simulation.compute()
 print(f"Torque assistance: {torque_simulation.output['torque_assistance']}%")
